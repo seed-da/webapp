@@ -1,20 +1,20 @@
 # title of website
-title: %NAME%
+title: webapp
 
 # description of website
-description: %ACTOR%'s navigation site
+description: seed-da's navigation site
 
 # favicon of website
-favicon: "https://github.com/%ACTOR%.png?size=40"
+favicon: "https://github.com/seed-da.png?size=40"
 
 # your website url
-url: https://%ACTOR%.github.io/%NAME%/
+url: https://seed-da.github.io/webapp/
 
 # github profile url
-github: "https://github.com/%ACTOR%"
+github: "https://github.com/seed-da"
 
 # footer message
-footer: © 2021-2021 @%ACTOR%
+footer: © 2021-2021 @seed-da
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
